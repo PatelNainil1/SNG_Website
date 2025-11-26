@@ -83,19 +83,19 @@ const SustainabilityPage = () => {
     {
       title: 'Green Manufacturing',
       description: 'Our manufacturing processes are designed to minimize environmental impact with energy-efficient machinery and waste reduction programs.',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x400/006e78/ffffff?text=Green+Manufacturing',
+      image: 'https://res.cloudinary.com/dwdrfqkxi/image/upload/v1764153098/windmill_vy27fo.webp',
       features: ['Solar-powered facilities', 'Water recycling systems', 'Waste heat recovery', 'Zero liquid discharge']
     },
     {
       title: 'Circular Economy',
       description: 'We actively participate in the circular economy by recycling post-consumer plastic waste into high-quality WPC products.',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x400/008a95/ffffff?text=Circular+Economy',
+      image: 'https://res.cloudinary.com/dwdrfqkxi/image/upload/v1764153263/Circular-Economy-Article-Photo-Cover-TONTOTON-1024x576_ixpnws.webp',
       features: ['Plastic waste collection', 'Material recovery programs', 'Product life extension', 'End-of-life recycling']
     },
     {
       title: 'Carbon Footprint Reduction',
       description: 'Comprehensive carbon reduction strategy across our entire value chain, from raw materials to product delivery.',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x400/00abb4/ffffff?text=Carbon+Reduction',
+      image: 'https://res.cloudinary.com/dwdrfqkxi/image/upload/v1764153407/Untitled-design-2024-08-13T215821.918_pvlko9.jpg',
       features: ['Carbon offset programs', 'Efficient logistics', 'Local sourcing', 'Renewable energy use']
     }
   ];

@@ -42,4 +42,3 @@ const ImageModal = ({ isOpen, onClose, imageUrl }) => {
 };
 
 export default ImageModal;
-

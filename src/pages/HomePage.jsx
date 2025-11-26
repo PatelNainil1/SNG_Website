@@ -10,10 +10,10 @@ import AnimatedCounter from '../components/AnimatedCounter';
 const heroImageUrl = 'https://res.cloudinary.com/dwdrfqkxi/image/upload/v1758864877/gemini-2.5-flash-image-preview_a_lush_3d_render_of_2-3_modern_corporate_buildings_with_a_luxury_and_international_look_featuring_p-0_uiguzy.png';
 
 const featuredProducts = [
-  { id: 'wpc-door-frame', name: 'WPC Solid Door Frame', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x800/00abb4/white?text=Door+Frame' },
-  { id: 'wpc-solid-doors', name: 'WPC Solid Doors', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x800/232323/white?text=Solid+Door' },
-  { id: 'wpc-solid-boards', name: 'WPC Solid Boards', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x800/009aa3/white?text=Solid+Board' },
-  { id: 'wpc-window-frame', name: 'WPC Window Frame', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x800/00818a/white?text=Window+Frame' },
+  { id: 'wpc-door-frame', name: 'WPC Solid Door Frame', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x800/00abb4/white?text=Door+Frame' },
+  { id: 'wpc-solid-doors', name: 'WPC Solid Doors', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x800/232323/white?text=Solid+Door' },
+  { id: 'wpc-solid-boards', name: 'WPC Solid Boards', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x800/009aa3/white?text=Solid+Board' },
+  { id: 'wpc-window-frame', name: 'WPC Window Frame', image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/600x800/00818a/white?text=Window+Frame' },
 ];
 
 const stats = [

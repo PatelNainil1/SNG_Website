@@ -27,56 +27,56 @@ const EventsPage = () => {
       name: 'India Wood 2025',
       date: 'February 2025',
       location: 'Bangalore, India',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/006e78/ffffff?text=India+Wood+2025',
+      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/006e78/ffffff?text=India+Wood+2025',
       description: 'Showcasing our latest innovations in WPC technology at the premier woodworking exhibition.'
     },
     {
       name: 'HBLF Gandhinagar 2024',
       date: 'October 2024',
       location: 'Gandhinagar, Gujarat',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/008a95/ffffff?text=HBLF+2024',
+      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/008a95/ffffff?text=HBLF+2024',
       description: 'Connecting with industry leaders at the Hardware & Building Materials Expo.'
     },
     {
       name: 'Build India Expo 2024',
       date: 'September 2024',
       location: 'New Delhi, India',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/00abb4/ffffff?text=Build+India+2024',
+      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/00abb4/ffffff?text=Build+India+2024',
       description: 'Presenting our sustainable building solutions to a national audience.'
     },
     {
       name: 'International Timber Expo',
       date: 'August 2024',
       location: 'Mumbai, India',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/2abdc8/ffffff?text=Timber+Expo+2024',
+      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/2abdc8/ffffff?text=Timber+Expo+2024',
       description: 'Highlighting the future of eco-friendly timber alternatives.'
     },
     {
       name: 'GreenBuild Conference',
       date: 'July 2024',
       location: 'Virtual Event',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/5ccfdb/ffffff?text=GreenBuild+2024',
+      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/5ccfdb/ffffff?text=GreenBuild+2024',
       description: 'Participating in global conversations on sustainable construction.'
     },
     {
       name: 'Architect@Work',
       date: 'June 2024',
       location: 'Kochi, India',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/93e2e9/ffffff?text=Architect@Work',
+      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/93e2e9/ffffff?text=Architect@Work',
       description: 'Engaging with architects and designers to inspire future projects.'
     },
     {
       name: 'Realty+ Conclave & Awards',
       date: 'May 2024',
       location: 'Pune, India',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/bfeef2/000000?text=Realty%2B+2024',
+      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/bfeef2/000000?text=Realty%2B+2024',
       description: 'Celebrating excellence and networking within the real estate sector.'
     },
     {
       name: 'Dealer & Distributor Meet',
       date: 'April 2024',
       location: 'Chandigarh, India',
-      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/dff6f8/000000?text=Dealer+Meet+2024',
+      image: 'https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://placehold.co/800x600/dff6f8/000000?text=Dealer+Meet+2024',
       description: 'Strengthening our partnerships and planning for future growth.'
     }
   ];
